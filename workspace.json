@@ -1,0 +1,13 @@
+{
+  "$schema": "./node_modules/nx/schemas/workspace-schema.json",
+  "version": 2,
+  "projects": {
+    "common-ui": "libs/common-ui",
+    "data": "libs/data",
+    "doctor-web-app": "apps/doctor-web-app",
+    "doctor-web-app-e2e": "apps/doctor-web-app-e2e",
+    "patient-service": "apps/patient-service",
+    "patient-web-app": "apps/patient-web-app",
+    "patient-web-app-e2e": "apps/patient-web-app-e2e"
+  }
+}
