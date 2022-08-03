@@ -1,10 +1,14 @@
-# Worldfestival
+# WorldFestival Monorepo Demo
+
+This is the code behind the demo of my WorldFestival 2022 tech talk, titled **Scaling Your Team with Code**.
+
+To spin up the entire environment (2 React apps and one NestJS microservice), run:
+
+```console
+yarn run start-all
+```
 
 This project was generated using [Nx](https://nx.dev). Default README is below.
-
-To spin up the entire environment, run:
-
-`yarn run start-all`
 
 🔎 **Smart, Fast and Extensible Build System**
 
@@ -82,8 +86,6 @@ Visit the [Nx Documentation](https://nx.dev) to learn more.
 ## ☁ Nx Cloud
 
 ### Distributed Computation Caching & Distributed Task Execution
-
-<p style="text-align: center;"><img src="https://raw.githubusercontent.com/nrwl/nx/master/images/nx-cloud-card.png"></p>
 
 Nx Cloud pairs with Nx in order to enable you to build and test code more rapidly, by up to 10 times. Even teams that are new to Nx can connect to Nx Cloud and start saving time instantly.
 
